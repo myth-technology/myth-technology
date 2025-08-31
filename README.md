@@ -2,17 +2,14 @@
 ---
 
 ### 🧭 Mission
-We build practical AI systems that ship: **robust agents, reliable evaluation, and efficient inference**.  
-Our open-source work focuses on **developer experience** and **operational reliability** so teams can go from idea → prototype → production with confidence.
+We build practical AI product that promote **convenience for underpriviledged individuals, convenience in aesthetic operation**.  
+Our teams will go from idea → prototype → production with confidence.
 
 ---
 
 ### 🔮 What we’re working on
-- **myth/agent-kit** – Composable agent runtime (tools, memory, routing) with predictable behavior.
-- **myth/eval** – Task-driven evaluation: datasets, metrics, judges, and report cards.
-- **myth/serve** – Minimal, fast inference gateway with caching, cost tracking, and fallbacks.
-- **myth/prompt** – Typed prompt pipelines, versioning, and sandboxed tests.
-- **myth/datasets** – Curated, reproducible corpora for agent/eval workflows.
+- **myth/a-eye** – System consist of smart glasses, ring, and ai embbeded system aims to enhance the shopping experience of visually impaired individuals.
+- **myth/magic-mirror** – 
 
 > Tip: Pin your top 6 repos on the org to mirror the list above.
 
